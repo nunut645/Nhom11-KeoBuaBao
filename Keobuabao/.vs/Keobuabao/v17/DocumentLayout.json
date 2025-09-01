@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Nhom11-KeoBuaBao\\Keobuabao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{233AC7DA-E000-48C8-86A6-0C4FAB1353DF}|Client\\Client.csproj|c:\\users\\acer\\nhom11-keobuabao\\keobuabao\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{233AC7DA-E000-48C8-86A6-0C4FAB1353DF}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FBF4C62-AFBB-433C-AE96-D139F6791265}|Keobuabao\\Keobuabao.csproj|c:\\users\\acer\\nhom11-keobuabao\\keobuabao\\keobuabao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FBF4C62-AFBB-433C-AE96-D139F6791265}|Keobuabao\\Keobuabao.csproj|solutionrelative:keobuabao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233AC7DA-E000-48C8-86A6-0C4FAB1353DF}|Client\\Client.csproj|c:\\users\\acer\\nhom11-keobuabao\\keobuabao\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233AC7DA-E000-48C8-86A6-0C4FAB1353DF}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Nhom11-KeoBuaBao\\Keobuabao\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Nhom11-KeoBuaBao\\Keobuabao\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAA2AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T16:17:26.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Nhom11-KeoBuaBao\\Keobuabao\\Keobuabao\\Program.cs",
               "RelativeDocumentMoniker": "Keobuabao\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Nhom11-KeoBuaBao\\Keobuabao\\Keobuabao\\Program.cs",
               "RelativeToolTip": "Keobuabao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T16:16:50.532Z"
+              "WhenOpened": "2025-08-31T16:16:50.532Z",
+              "EditorCaption": ""
             }
           ]
         }
