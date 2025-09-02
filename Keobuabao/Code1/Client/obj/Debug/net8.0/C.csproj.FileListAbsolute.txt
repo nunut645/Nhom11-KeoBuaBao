@@ -1,0 +1,28 @@
+C:\Lập Trình Mạng\S\C\bin\Debug\net8.0\C.exe
+C:\Lập Trình Mạng\S\C\bin\Debug\net8.0\C.deps.json
+C:\Lập Trình Mạng\S\C\bin\Debug\net8.0\C.runtimeconfig.json
+C:\Lập Trình Mạng\S\C\bin\Debug\net8.0\C.dll
+C:\Lập Trình Mạng\S\C\bin\Debug\net8.0\C.pdb
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.AssemblyInfoInputs.cache
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.AssemblyInfo.cs
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.csproj.CoreCompileInputs.cache
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.dll
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\refint\C.dll
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.pdb
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\C.genruntimeconfig.cache
+C:\Lập Trình Mạng\S\C\obj\Debug\net8.0\ref\C.dll
+C:\Laptrinhmang\S\C\bin\Debug\net8.0\C.exe
+C:\Laptrinhmang\S\C\bin\Debug\net8.0\C.deps.json
+C:\Laptrinhmang\S\C\bin\Debug\net8.0\C.runtimeconfig.json
+C:\Laptrinhmang\S\C\bin\Debug\net8.0\C.dll
+C:\Laptrinhmang\S\C\bin\Debug\net8.0\C.pdb
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.AssemblyInfoInputs.cache
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.AssemblyInfo.cs
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.csproj.CoreCompileInputs.cache
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.dll
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\refint\C.dll
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.pdb
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\C.genruntimeconfig.cache
+C:\Laptrinhmang\S\C\obj\Debug\net8.0\ref\C.dll
