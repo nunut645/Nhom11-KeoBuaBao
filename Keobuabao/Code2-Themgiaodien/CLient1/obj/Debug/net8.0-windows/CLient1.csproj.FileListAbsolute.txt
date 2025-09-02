@@ -1,0 +1,16 @@
+C:\Laptrinhmang\S\CLient1\bin\Debug\net8.0-windows\CLient1.exe
+C:\Laptrinhmang\S\CLient1\bin\Debug\net8.0-windows\CLient1.deps.json
+C:\Laptrinhmang\S\CLient1\bin\Debug\net8.0-windows\CLient1.runtimeconfig.json
+C:\Laptrinhmang\S\CLient1\bin\Debug\net8.0-windows\CLient1.dll
+C:\Laptrinhmang\S\CLient1\bin\Debug\net8.0-windows\CLient1.pdb
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.Form1.resources
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.csproj.GenerateResource.cache
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.AssemblyInfoInputs.cache
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.AssemblyInfo.cs
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.csproj.CoreCompileInputs.cache
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.dll
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\refint\CLient1.dll
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.pdb
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\CLient1.genruntimeconfig.cache
+C:\Laptrinhmang\S\CLient1\obj\Debug\net8.0-windows\ref\CLient1.dll

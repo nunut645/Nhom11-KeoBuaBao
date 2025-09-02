@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Laptrinhmang\\S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|c:\\laptrinhmang\\s\\client1\\client1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|solutionrelative:client1\\client1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|c:\\laptrinhmang\\s\\client1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|solutionrelative:client1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|c:\\laptrinhmang\\s\\client1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|solutionrelative:client1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A51975-3A42-4A07-9EFA-1CD51186D53B}|S\\S.csproj|c:\\laptrinhmang\\s\\s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A51975-3A42-4A07-9EFA-1CD51186D53B}|S\\S.csproj|solutionrelative:s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|c:\\laptrinhmang\\s\\client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|solutionrelative:client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|C:\\Laptrinhmang\\S\\client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F38FC921-658C-4755-B3B1-AC3ADE3E1A52}|CLient1\\CLient1.csproj|solutionrelative:client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLient1.csproj",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\CLient1\\CLient1.csproj",
+              "RelativeDocumentMoniker": "CLient1\\CLient1.csproj",
+              "ToolTip": "C:\\Laptrinhmang\\S\\CLient1\\CLient1.csproj",
+              "RelativeToolTip": "CLient1\\CLient1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T15:53:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\CLient1\\Form1.cs",
+              "RelativeDocumentMoniker": "CLient1\\Form1.cs",
+              "ToolTip": "C:\\Laptrinhmang\\S\\CLient1\\Form1.cs [Design]",
+              "RelativeToolTip": "CLient1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:36:39.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\CLient1\\Form1.cs",
+              "RelativeDocumentMoniker": "CLient1\\Form1.cs",
+              "ToolTip": "C:\\Laptrinhmang\\S\\CLient1\\Form1.cs",
+              "RelativeToolTip": "CLient1\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:29:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\CLient1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CLient1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Laptrinhmang\\S\\CLient1\\Form1.Designer.cs",
+              "RelativeToolTip": "CLient1\\Form1.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:02:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\CLient1\\Program.cs",
+              "RelativeDocumentMoniker": "CLient1\\Program.cs",
+              "ToolTip": "C:\\Laptrinhmang\\S\\CLient1\\Program.cs",
+              "RelativeToolTip": "CLient1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:56:31.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Laptrinhmang\\S\\S\\Program.cs",
+              "RelativeDocumentMoniker": "S\\Program.cs",
+              "ToolTip": "C:\\Laptrinhmang\\S\\S\\Program.cs",
+              "RelativeToolTip": "S\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:30:23.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
